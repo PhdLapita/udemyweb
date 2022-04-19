@@ -1,0 +1,10 @@
+pip install --upgrade pip
+pip install django -U
+#django-admin startproject nameproyecto
+#python3 manage.py startapp nameapp
+#python3 manage.py runserver 
+#python3 manage.py migrate 
+#python3 manage.py createsuperuser 
+pip install djangorestframework
+pip install markdown       # Markdown support for the browsable API.
+pip install django-filter  # Filtering support
